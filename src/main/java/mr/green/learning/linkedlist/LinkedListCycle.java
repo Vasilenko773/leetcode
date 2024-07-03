@@ -1,4 +1,4 @@
-package mr.green.learning;
+package mr.green.learning.linkedlist;
 
 import java.util.HashSet;
 import java.util.Set;

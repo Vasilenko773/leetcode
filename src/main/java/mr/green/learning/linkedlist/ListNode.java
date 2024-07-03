@@ -1,4 +1,4 @@
-package mr.green.learning;
+package mr.green.learning.linkedlist;
 
 public class ListNode {
 

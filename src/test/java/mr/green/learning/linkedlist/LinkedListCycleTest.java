@@ -1,4 +1,4 @@
-package mr.green.learning;
+package mr.green.learning.linkedlist;
 
 import org.junit.jupiter.api.Test;
 
