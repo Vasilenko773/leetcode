@@ -1,5 +1,8 @@
 package mr.green.learning.linkedlist;
 
+import lombok.ToString;
+
+@ToString
 public class ListNode {
 
     int val;
